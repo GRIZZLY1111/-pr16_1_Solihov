@@ -1,0 +1,10 @@
+C:\Солихов ПР-21\Praktika16_4\Praktika16_4\bin\Debug\Praktika16_4.exe.config
+C:\Солихов ПР-21\Praktika16_4\Praktika16_4\bin\Debug\Praktika16_4.exe
+C:\Солихов ПР-21\Praktika16_4\Praktika16_4\bin\Debug\Praktika16_4.pdb
+C:\Солихов ПР-21\Praktika16_4\Praktika16_4\obj\Debug\Praktika16_4.csproj.AssemblyReference.cache
+C:\Солихов ПР-21\Praktika16_4\Praktika16_4\obj\Debug\Praktika16_4.Form1.resources
+C:\Солихов ПР-21\Praktika16_4\Praktika16_4\obj\Debug\Praktika16_4.Properties.Resources.resources
+C:\Солихов ПР-21\Praktika16_4\Praktika16_4\obj\Debug\Praktika16_4.csproj.GenerateResource.cache
+C:\Солихов ПР-21\Praktika16_4\Praktika16_4\obj\Debug\Praktika16_4.csproj.CoreCompileInputs.cache
+C:\Солихов ПР-21\Praktika16_4\Praktika16_4\obj\Debug\Praktika16_4.exe
+C:\Солихов ПР-21\Praktika16_4\Praktika16_4\obj\Debug\Praktika16_4.pdb
