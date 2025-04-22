@@ -1,0 +1,7 @@
+C:\Солихов ПР-21\Praktika16_3\Praktika16_3\bin\Debug\Praktika16_3.exe.config
+C:\Солихов ПР-21\Praktika16_3\Praktika16_3\bin\Debug\Praktika16_3.exe
+C:\Солихов ПР-21\Praktika16_3\Praktika16_3\bin\Debug\Praktika16_3.pdb
+C:\Солихов ПР-21\Praktika16_3\Praktika16_3\obj\Debug\Praktika16_3.csproj.AssemblyReference.cache
+C:\Солихов ПР-21\Praktika16_3\Praktika16_3\obj\Debug\Praktika16_3.csproj.CoreCompileInputs.cache
+C:\Солихов ПР-21\Praktika16_3\Praktika16_3\obj\Debug\Praktika16_3.exe
+C:\Солихов ПР-21\Praktika16_3\Praktika16_3\obj\Debug\Praktika16_3.pdb
